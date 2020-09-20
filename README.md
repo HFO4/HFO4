@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a university student in <img src="https://www.flaticon.com/svg/static/icons/svg/323/323363.svg" width="13"/> China. I major in Software Engineering at CQU, expected to become a full-time SDE in 2021. I enjoy coding for fun😋 and making toys projects🎈. 
+I'm a university student in <img src="https://www.flaticon.com/svg/static/icons/svg/323/323363.svg" width="13"/> China. I major in Software Engineering at CQU, expected to become a full-time SDE in 2021. I enjoy coding for fun😋 and making toys projects🎈.
 
 <h3>Things I code with</h3>
 <p>
@@ -22,17 +22,6 @@ I'm a university student in <img src="https://www.flaticon.com/svg/static/icons/
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white" />
 </p>
 
-<!--
-**HFO4/HFO4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>Where to find me</h3>
+<p><a href="https://blog.aoaoao.me" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Blog-%23FF4088.svg?&style=for-the-badge&logo=hugo&logoColor=white" /></a><a href="https://github.com/HFO4" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/AaronLiu00" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+</p>
