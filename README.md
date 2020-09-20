@@ -1,3 +1,5 @@
+[![Visits Badge](https://badges.pufler.dev/visits/HFO4/HFO4)](https://github.com/HFO4)
+
 ### Hi there 👋
 
 I'm a university student in <img src="https://www.flaticon.com/svg/static/icons/svg/323/323363.svg" width="13"/> China. I major in Software Engineering at CQU, expected to become a full-time SDE in 2021. I enjoy coding for fun😋 and making toys projects🎈.
