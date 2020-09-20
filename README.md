@@ -1,4 +1,4 @@
-[![Visits Badge](https://badges.pufler.dev/visits/HFO4/HFO4)](https://github.com/HFO4)
+[![Visits Badge](https://badges.pufler.dev/visits/HFO4/HFO4?style=flat-square)](https://github.com/HFO4)
 
 ### Hi there 👋
 
