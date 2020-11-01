@@ -7,8 +7,8 @@ I'm an university student in <img src="https://www.flaticon.com/svg/static/icons
 </p>
 
 ### Let's play Pokemon~
-<img src="https://toy.aoaoao.me/svg?callback=https://github.com/HFO4" width="300"/> 
+<img src="https://toy.aoaoao.me/image" width="300"/> 
 
-<img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/blank.png" width="30"/> <img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/up.png" width="30"/>
-<br><a href="https://toy.aoaoao.me/control?button=2&callback=https://github.com/HFO4"><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/left.png" width="30"/></a><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/blank.png" width="30"/><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/right.png" width="30"/>
-<br><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/blank.png" width="30"/><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/down.png" width="30"/>
+<img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/blank.png" width="30"/> <a href="https://toy.aoaoao.me/control?button=2&callback=https://github.com/HFO4"><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/up.png" width="30"/></a>
+<br><a href="https://toy.aoaoao.me/control?button=1&callback=https://github.com/HFO4"><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/left.png" width="30"/></a><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/blank.png" width="30"/><a href="https://toy.aoaoao.me/control?button=0&callback=https://github.com/HFO4"><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/right.png" width="30"/></a>
+<br><a href="https://toy.aoaoao.me/control?button=3&callback=https://github.com/HFO4"><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/blank.png" width="30"/><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/down.png" width="30"/></a>
