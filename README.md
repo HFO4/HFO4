@@ -9,4 +9,4 @@ I'm an university student in <img src="https://www.flaticon.com/svg/static/icons
 </p>
 
 ### Let's play Pokemon~
-[![](https://toy.aoaoao.me/svg?callback=https://github.com/HFO4)](#)
+<img src="https://toy.aoaoao.me/svg?callback=https://github.com/HFO4" width="300"/>
