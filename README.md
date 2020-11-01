@@ -1,5 +1,3 @@
-[![Visits Badge](https://badges.pufler.dev/visits/HFO4/HFO4?style=flat-square)](https://github.com/HFO4)
-
 ### Hi there 👋
 
 I'm an university student in <img src="https://www.flaticon.com/svg/static/icons/svg/323/323363.svg" width="13"/> China. I major in Software Engineering at CQU, expected to become a full-time SDE in 2021. I enjoy coding for fun😋 and making toy projects🎈.
@@ -10,3 +8,5 @@ I'm an university student in <img src="https://www.flaticon.com/svg/static/icons
 
 ### Let's play Pokemon~
 <img src="https://toy.aoaoao.me/svg?callback=https://github.com/HFO4" width="300"/>
+
+![](https://raw.githubusercontent.com/HFO4/HFO4/master/img/blank.png)
