@@ -23,8 +23,4 @@ Click buttons above to issue new gamepad input, refresh this page to view newst 
   The section is developed based on my previopus GameBoy emulator project [Gameboy.Live](https://github.com/HFO4/gameboy.live), you can use this project to deploy your own "cloud gaming server".
 </details>
 
-<details><summary>Statistics of this game so far</summary>
-  <img src="https://playground.aoaoao.me/Api/GBStatistic" />
-</details>
-
 -----
